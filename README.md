@@ -1,16 +1,77 @@
-### Hi there 👋
+<h1 color="black" align="center"> #Hi Stranger :alien:🖖 </h1>
+<p align="center" color="grey" size="14px">Welcome to my GitHub! :octocat:</p>
 
-<!--
-**DolglasMesquita/DolglasMesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://www.linkedin.com/in/dolglas-mesquita/">
+        <img 
+            alt="Dolglas Mesquita" 
+            src="https://img.shields.io/badge/-Dolglas%20Mesquita-%230077b5?style=flat-square&logo=linkedin">
+    </a>
+    <a href="https://twitter.com/DolglasMesquita">
+        <img 
+            alt="Twitter Dolglas Mesquita" 
+            src="https://img.shields.io/twitter/follow/dolglasmesquita?label=Seguir&style=social">
+    </a>
+    <a href="https://www.instagram.com/dolglasmesquita/">
+        <img
+            width="84"
+            alt="Intagram Dolglas Mesquita" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+</p>
 
-Here are some ideas to get you started:
+<h2 align='left'>👨🏻‍💻 #About me:</h2>
+<p align='left' color="grey" font-size="20px">Eu sou Dolglas Mesquita, <br/> Desenvolvedor BackEnd 💻 </p>
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p>
+    <h2 align="left"><img  alt="skills"  width="40" height="40" style="margin-right:10px;float:left;" src="assets/skill.svg"></img>#Tecnologias: </h2>
+</p>
+<p align="center">
+    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-4F0599?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    </a>
+    <a href="https://dotnet.microsoft.com/apps/aspnet">
+    <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-0082c9?style=for-the-badge&logo=.net&logoColor=white"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    </a>
+    <a href="https://www.javascript.com/">
+    <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    </a>
+    <!-- <a href="https://www.typescriptlang.org/">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    </a> -->
+    <a href="https://getbootstrap.com/">
+    <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    </a>
+    <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">
+    <img alt="SqlServer" src="https://img.shields.io/badge/SQLServer-00000F?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+    </a>
+    <a href="https://git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/Git-E95420?style=for-the-badge&logo=git&logoColor=white"/>
+    </a>
+    <a href="https://github.com/">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="https://dev.mysql.com/">
+    <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </a>
+</p>
+
+---
+
+<h2 align="left"><img src="assets/startup.svg" alt="analytics"  width="30" height="30" style="margin-right:10px;float:left;"></img>#Statistics: </h2>
+
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dolglasmesquita&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=dolglasmesquita&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dolglasmesquita&hide_border=true)
