@@ -1,4 +1,4 @@
-<h1 color="black" align="center"> #Hi Stranger :alien:🖖 </h1>
+<h1 color="black" align="center"> #Hello </h1>
 <p align="center" color="grey" size="14px">Welcome to my GitHub! :octocat:</p>
 
 <p align="center">
@@ -20,14 +20,14 @@
     </a>
 </p>
 
-<h2 align='left'>👨🏻‍💻 #About me:</h2>
+<h2 align='left'> #About me:</h2>
 <p align='left' color="grey" font-size="20px">Eu sou Dolglas Mesquita, <br/> Desenvolvedor BackEnd 💻 </p>
 <p>
 
 ---
 
 <p>
-    <h2 align="left"><img  alt="skills"  width="40" height="40" style="margin-right:10px;float:left;" src=http://superaflorianopolis.com.br/wp-content/uploads/2018/10/Prancheta_2-8.png"></img>#My Skills: </h2>
+    <h2 align="left"> #My Skills: </h2>
 </p>
 <p align="center">
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
@@ -67,7 +67,7 @@
 
 ---
 
-<h2 align="left"><img src="assets/startup.svg" alt="analytics"  width="30" height="30" style="margin-right:10px;float:left;"></img>#Statistics: </h2>
+<h2 align="left"> #Statistics: </h2>
 
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dolglasmesquita&layout=compact&count_private=true)
