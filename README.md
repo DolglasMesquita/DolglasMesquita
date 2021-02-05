@@ -20,7 +20,7 @@
 </p>
 
 <h2 align='left'> #About me:</h2>
-<p align='left' color="grey" font-size="20px">I'm Dolglas Mesquita <br/> Desenvolvedor BackEnd 💻 </p>
+<p align='left' color="grey" font-size="20px">I'm Dolglas Mesquita <br/> BackEnd Developer 💻 </p>
 <p>
 
 ---
