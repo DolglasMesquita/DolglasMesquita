@@ -27,7 +27,7 @@
 ---
 
 <p>
-    <h2 align="left"><img  alt="skills"  width="40" height="40" style="margin-right:10px;float:left;" src="assets/skill.svg"></img>#Tecnologias: </h2>
+    <h2 align="left"><img  alt="skills"  width="40" height="40" style="margin-right:10px;float:left;" src=http://superaflorianopolis.com.br/wp-content/uploads/2018/10/Prancheta_2-8.png"></img>#My Skills: </h2>
 </p>
 <p align="center">
     <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
@@ -74,4 +74,3 @@
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=dolglasmesquita&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dolglasmesquita&hide_border=true)
