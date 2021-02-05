@@ -1,5 +1,4 @@
-<h1 color="black" align="center"> #Hello </h1>
-<p align="center" color="grey" size="14px">Welcome to my GitHub! :octocat:</p>
+<h2 align="center" color="grey" size="14px">Welcome to my GitHub! :octocat:</h2>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/dolglas-mesquita/">
