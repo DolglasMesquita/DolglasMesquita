@@ -47,6 +47,9 @@
     <!-- <a href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
     </a> -->
+    <a href="https://www.php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-3178C6?style=for-the-badge&logo=php&logoColor=white"/>
+    </a>
     <a href="https://getbootstrap.com/">
     <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </a>
