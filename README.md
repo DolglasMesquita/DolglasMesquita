@@ -20,7 +20,9 @@
 </p>
 
 <h2 align='left'> #About me:</h2>
-<p align='left' color="grey" font-size="20px">I'm Dolglas Mesquita <br/> BackEnd Developer 💻 </p>
+<p align='left' color="grey" font-size="20px"> Sou graduado em sistemas de Informação interessado no desenvolvimento Web back-end.
+Tenho conhecimento nas linguagens de programação C#, Java, PHP e JavaScript. Também tenho conhecimento em HTML, CSS, Bootstrap e atualmente estou estudando o framework Angular.
+Meu maior foco é o C#, onde eu tenho conhecimento sólido na linguagem e na plataforma .NET Core. Para me especializar na tecnologia tenho desenvolvido algumas aplicações ASP .NET Core MVC e Web API, tanto em abiente Windows quanto Linux.  </p>
 <p>
 
 ---
